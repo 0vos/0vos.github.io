@@ -2,10 +2,6 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
-header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   nav: "projects_sidebar"
 ---
