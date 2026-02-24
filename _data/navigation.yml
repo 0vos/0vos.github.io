@@ -10,3 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+projects_sidebar:
+  - title: "My Projects"
+    children:
+      - title: "1"
+        url: /projects/#1
