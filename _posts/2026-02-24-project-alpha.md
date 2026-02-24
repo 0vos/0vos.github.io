@@ -5,6 +5,8 @@ date: 2026-02-24
 permalink: /project-alpha/
 categories:
   - Projects
+header:
+  teaser: assets/images/IMG_9641.jpeg
 ---
 
 这里是项目 A 的详细图文说明、代码片段、长视频等内容。
