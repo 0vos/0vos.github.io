@@ -14,4 +14,4 @@ projects_sidebar:
   - title: "My Projects"
     children:
       - title: "1"
-        url: /projects/#1
+        url: /projects/#project-alpha
