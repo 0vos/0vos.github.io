@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "General physical 3D models for pick and place task in AR environment"
 header:
-  teaser: "assets/images/physicalAsset.jpg" 
+  teaser: "assets/images/PA.jpg" 
 ---
 General physical 3D models for pick and place task in AR environment
