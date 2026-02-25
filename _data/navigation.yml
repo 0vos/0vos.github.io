@@ -15,41 +15,39 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 projects_sidebar:
-  - title: "My Projects"
+  - title: "System Design"
     children:
-      - title: "System Design"
-        children:
-          - title: "Physical Asset Library"
-            url: /projects/#project-asset
-          - title: "AR Character Chat"
-            url: /projects/#project-ARchat
-          - title: "Virtual Visual"
-            url: /projects/#project-neuVirtualVisual
-          - title: "Middle Earth Map"
-            url: /projects/#project-neuMiddleEarth
-          - title: "Major Depressive Disorder diagnosis"
-            url: /projects/#project-brain
-          - title: "Float Screen Translation"
-            url: /projects/#project-translation
-          - title: "Mr.Tenna's Kick"
-            url: /projects/#project-3Dtenna
-          - title: "Free Moving Car"
-            url: /projects/#project-robot
-          - title: "Touhou STG"
-            url: /projects/#project-neuTouhou
-          - title: "Huffman Compression Web APP"
-            url: /projects/#project-neuHuffman
-          - title: "Bencao RAG Web APP"
-            url: /projects/#project-bencaoRAG
-          - title: "Mechanical City"
-            url: /projects/#project-3Dmechanical
-          - title: "Akasa Hakase's House"
-            url: /projects/#project-3Dakasa
-      - title: "Algorithm Implementation"
-        children:
-          - title: "Kaggle CV Competition"
-            url: /projects/#project-neuML
-          - title: "Markov Iteration"
-            url: /projects/#project-neuAIintro
-          - title: "Traditional Algorithms"
-            url: /projects/#project-neuAlgo
+      - title: "Physical Asset Library"
+        url: /projects/#project-asset
+      - title: "AR Character Chat"
+        url: /projects/#project-ARchat
+      - title: "Virtual Visual"
+        url: /projects/#project-neuVirtualVisual
+      - title: "Middle Earth Map"
+        url: /projects/#project-neuMiddleEarth
+      - title: "Major Depressive Disorder diagnosis"
+        url: /projects/#project-brain
+      - title: "Float Screen Translation"
+        url: /projects/#project-translation
+      - title: "Mr.Tenna's Kick"
+        url: /projects/#project-3Dtenna
+      - title: "Free Moving Car"
+        url: /projects/#project-robot
+      - title: "Touhou STG"
+        url: /projects/#project-neuTouhou
+      - title: "Huffman Compression Web APP"
+        url: /projects/#project-neuHuffman
+      - title: "Bencao RAG Web APP"
+        url: /projects/#project-bencaoRAG
+      - title: "Mechanical City"
+        url: /projects/#project-3Dmechanical
+      - title: "Akasa Hakase's House"
+        url: /projects/#project-3Dakasa
+  - title: "Algorithm Implementation"
+    children:
+      - title: "Kaggle CV Competition"
+        url: /projects/#project-neuML
+      - title: "Markov Iteration"
+        url: /projects/#project-neuAIintro
+      - title: "Traditional Algorithms"
+        url: /projects/#project-neuAlgo
