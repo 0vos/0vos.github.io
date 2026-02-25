@@ -11,13 +11,13 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="margin-bottom: 4em;"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if teaser %}
-      <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+      <div class="archive__item-teaser" style="margin-bottom: 0.5em;">
+        <img src="{{ teaser | relative_url }}" alt="" style="border-radius: 8px;">
       </div>
     {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline" style="margin-top: 0;">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
