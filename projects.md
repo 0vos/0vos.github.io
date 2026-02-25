@@ -6,7 +6,7 @@ sidebar:
   nav: "projects_sidebar"
 ---
 <!-- 项目 A -->
-## [项目 A：智能机器人](/project-alpha/) {#project-alpha}
+## [Physical Asset Library for Robot Tasks](/project-asset/) {#project-asset}
 
 <div style="text-align: center; margin-bottom: 1em;">
   <video width="100%" autoplay loop muted playsinline style="border-radius: 8px;">
