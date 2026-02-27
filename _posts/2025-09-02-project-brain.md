@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "A time–frequency graph fusion framework for Major Depressive Disorder diagnosis in multi-site rsfMRI data"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/brain.png" 
 ---
 A time–frequency graph fusion framework for Major Depressive Disorder diagnosis in multi-site rsfMRI data
