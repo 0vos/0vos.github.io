@@ -40,7 +40,7 @@ sidebar:
 
 <hr>
 <!-- project 3 -->
-## [Virtual visuals of AR characters](/project-neuVirtualVisual/) {#project-neuVirtualVisual}
+## [Virtual Visuals of AR Characters](/project-neuVirtualVisual/) {#project-neuVirtualVisual}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
