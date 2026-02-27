@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Sympton localization and blood vessel segmentation in medical images"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/neuML.png" 
 ---
 Sympton localization and blood vessel segmentation in medical images
