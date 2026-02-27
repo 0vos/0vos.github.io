@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Physical Asset Library for Robot Tasks"
+title: "Physical Model Asset Library for Robot Tasks"
 date: 2026-02-10
 permalink: /project-asset/
 categories:

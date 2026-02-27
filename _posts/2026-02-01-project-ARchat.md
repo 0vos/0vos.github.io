@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "AR Chat with Anime Character"
+title: "Mobile AR Anime Companion"
 date: 2026-02-01
 permalink: /project-ARchat/
 categories:
   - Projects
 excerpt: "Chat with anime character in AR environment"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/ARChat.jpg" 
 ---
 Chat with anime character in AR environment
