@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Find path using Markov value iteration, policy iteration and Q-learning"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/RL.png" 
 ---
 Find path using Markov value iteration, policy iteration and Q-learning
