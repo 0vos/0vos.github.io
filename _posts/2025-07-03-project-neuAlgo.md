@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Dynamic programming, branch and bound, backtracking, etc"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/Algo.png" 
 ---
 Dynamic programming, branch and bound, backtracking, etc

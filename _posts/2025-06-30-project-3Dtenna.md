@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Rational kicking version for Mr.Tenna from Deltarune"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/tenna.png" 
 ---
 Rational kicking version for Mr.Tenna from Deltarune
