@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Huffman Compression Web APP"
-date: 2025-12-31
+date: 2024-12-31
 permalink: /project-neuHuffman/
 categories:
   - Projects

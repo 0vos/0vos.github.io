@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Chat with Information RAG from Knowledge Graph"
-date: 2025-12-08
+date: 2024-12-08
 permalink: /project-bencaoRAG/
 categories:
   - Projects
