@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Markov Model for Path Finding"
-date: 2026-12-07
+date: 2025-11-04
 permalink: /project-neuAIintro/
 categories:
   - Projects
