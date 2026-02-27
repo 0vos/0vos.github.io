@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Chat with anime character in AR environment"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/ARChat.jpg" 
 ---
 Chat with anime character in AR environment
