@@ -135,6 +135,6 @@ This video demonstrates all the features of a Huffman compression software prese
 </div>
 </div>
 
-None
+This video showcases the Blender model of Dr. Agasa's house (although it looks cool, in order to finally use it as a 3D printed physical model, wall thickness must be added to the model and it must be properly sliced, because the interior is essentially hollow and contains indoor structures). A pillar at the back door appears black due to a GPU calculation issue in the Cycles engine; switching to CPU calculation displays the material normally.
 
 <hr>
