@@ -31,8 +31,8 @@ projects_sidebar:
   #       url: /projects/#project-translation
   #     - title: "Mr.Tenna's Kick"
   #       url: /projects/#project-3Dtenna
-      - title: "Free Moving Car"
-        url: /projects/#project-robot
+      # - title: "Free Moving Car"
+      #   url: /projects/#project-robot
   #     - title: "Touhou STG"
   #       url: /projects/#project-neuTouhou
       - title: "Huffman Compression Software"
