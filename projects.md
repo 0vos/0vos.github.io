@@ -57,9 +57,9 @@ This video shows a demo of the character's virtual vision. After generating the 
 
 <hr>
 <!-- project 4 -->
-## [Middle Earth Tracker](/project-neuMiddleEarth/) {#project-neuMiddleEarth}
+<!-- ## [Middle Earth Tracker](/project-neuMiddleEarth/) {#project-neuMiddleEarth} -->
 
-<div style="text-align: center; margin-bottom: 1em;">
+<!-- <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
   <iframe 
     src="https://www.youtube.com/embed/p-Xtgsx3ivY?autoplay=1&mute=1&loop=1&playlist=p-Xtgsx3ivY&controls=0&rel=0" 
@@ -68,11 +68,11 @@ This video shows a demo of the character's virtual vision. After generating the 
     allowfullscreen>
   </iframe>
 </div>
-</div>
+</div> -->
 
-This video demonstrates the complete Middle Earth map tracking system. Since the story in "The Lord of the Rings" takes place on a vast land, recording the locations reached during travels or the movement directions of armies on the map greatly helps in understanding the plot. Additionally, readers can plan their own Middle Earth adventure routes and create entirely new adventure stories based on the terrain, climate, and history of various regions. This video is played at 2x speed.
+<!-- This video demonstrates the complete Middle Earth map tracking system. Since the story in "The Lord of the Rings" takes place on a vast land, recording the locations reached during travels or the movement directions of armies on the map greatly helps in understanding the plot. Additionally, readers can plan their own Middle Earth adventure routes and create entirely new adventure stories based on the terrain, climate, and history of various regions. This video is played at 2x speed. -->
 
-<hr>
+<!-- <hr> -->
 <!-- project 5
 ## [Major Depressive Disorder diagnosis](/project-brain/) {#project-brain}
 
@@ -106,8 +106,8 @@ This video demonstrates all the features of a Huffman compression software prese
 
 <hr>
 <!-- project 7 -->
-## [Mr.Tenna's Kick](/project-3Dtenna/) {#project-3Dtenna}
-
+<!-- ## [Mr.Tenna's Kick](/project-3Dtenna/) {#project-3Dtenna} -->
+<!-- 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
   <iframe 
@@ -117,11 +117,11 @@ This video demonstrates all the features of a Huffman compression software prese
     allowfullscreen>
   </iframe>
 </div>
-</div>
+</div> -->
 
-This video showcases the signature kick of Tenna from Chapter 3 of the game Deltarune, released in June 2025. Since the original animation in the game has the coattail stuck to the leg, I recreated a 3D animation of Tenna's kick, allowing the coattail and tie to swing more realistically.
+<!-- This video showcases the signature kick of Tenna from Chapter 3 of the game Deltarune, released in June 2025. Since the original animation in the game has the coattail stuck to the leg, I recreated a 3D animation of Tenna's kick, allowing the coattail and tie to swing more realistically. -->
 
-<hr>
+<!-- <hr> -->
 ## [Agasa Hakase's House](/project-3DAgasa/) {#project-3DAgasa}
 
 <div style="text-align: center; margin-bottom: 1em;">
