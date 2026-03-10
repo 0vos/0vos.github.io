@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "3D modeling and printing for Agasa Hakase's House using Blender and postprocessing"
 header:
-  teaser: "assets/images/agasaHagase.png" 
+  teaser: "assets/images/agasaHakase.png" 
 ---
 None
