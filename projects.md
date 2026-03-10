@@ -122,12 +122,12 @@ This video demonstrates all the features of a Huffman compression software prese
 This video showcases the signature kick of Tenna from Chapter 3 of the game Deltarune, released in June 2025. Since the original animation in the game has the coattail stuck to the leg, I recreated a 3D animation of Tenna's kick, allowing the coattail and tie to swing more realistically.
 
 <hr>
-## [Physical Asset Library for Robot Tasks](/project-asset/) {#project-asset}
+## [Agasa Hakase's House](/project-3DAgasa/) {#project-3DAgasa}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
   <iframe 
-    src="https://www.youtube.com/embed/Q9xZE6tTExA?autoplay=1&mute=1&loop=1&playlist=Q9xZE6tTExA&controls=0&rel=0" 
+    src="https://www.youtube.com/embed/Mbx-VSlswPs?autoplay=1&mute=1&loop=1&playlist=Mbx-VSlswPs&controls=0&rel=0" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>

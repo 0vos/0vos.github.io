@@ -41,8 +41,8 @@ projects_sidebar:
   #       url: /projects/#project-bencaoRAG
   #     - title: "Mechanical City"
   #       url: /projects/#project-3Dmechanical
-      - title: "Akasa Hakase's House"
-        url: /projects/#project-3Dakasa
+      - title: "Agasa Hakase's House"
+        url: /projects/#project-3Dagasa
   # - title: "Algorithm Implementation"
   #   children:
   #     - title: "Kaggle CV Competition"
