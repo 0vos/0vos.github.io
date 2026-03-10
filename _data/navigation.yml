@@ -35,7 +35,7 @@ projects_sidebar:
         url: /projects/#project-robot
   #     - title: "Touhou STG"
   #       url: /projects/#project-neuTouhou
-      - title: "Huffman Compression Web APP"
+      - title: "Huffman Compression Software"
         url: /projects/#project-neuHuffman
   #     - title: "Bencao RAG Web APP"
   #       url: /projects/#project-bencaoRAG
