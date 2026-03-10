@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Solve Maze Problem using Traditional Algorithm"
-date: 2025-07-03
+date: 2027-07-03
 permalink: /project-neuAlgo/
 categories:
   - Projects

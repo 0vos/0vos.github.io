@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Neo Touhou Project STG using basic C++"
-date: 2025-01-13
+date: 2027-01-13
 permalink: /project-neuTouhou/
 categories:
   - Projects

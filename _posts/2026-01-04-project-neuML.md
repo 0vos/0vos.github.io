@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kaggle Competition in Computer Vision"
-date: 2026-01-04
+date: 2027-01-04
 permalink: /project-neuML/
 categories:
   - Projects

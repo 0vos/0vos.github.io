@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Brain Disease Detection"
-date: 2025-09-02
+date: 2027-09-02
 permalink: /project-brain/
 categories:
   - Projects

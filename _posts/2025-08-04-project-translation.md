@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Float OCR Translation for Mac"
-date: 2025-08-04
+date: 2027-08-04
 permalink: /project-translation/
 categories:
   - Projects

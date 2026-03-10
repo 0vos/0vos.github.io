@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "3D Animation for Tenna kicking"
-date: 2025-06-30
+date: 2027-06-30
 permalink: /project-3Dtenna/
 categories:
   - Projects

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "3D Scene of the Mechanical City"
-date: 2024-07-22
+date: 2027-07-22
 permalink: /project-3Dmechanical/
 categories:
   - Projects
