@@ -7,6 +7,6 @@ categories:
   - Projects
 excerpt: "Using basic C++ to build the server for Huffman compression graphical system"
 header:
-  teaser: "https://picsum.photos/500/300" 
+  teaser: "assets/images/huffman.jpg" 
 ---
 Using basic C++ to build the server for Huffman compression graphical system
