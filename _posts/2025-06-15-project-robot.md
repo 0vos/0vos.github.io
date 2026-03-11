@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Free moving in real world with AI decision only"
-date: 2025-06-15
+date: 2027-06-15
 permalink: /project-robot/
 categories:
   - Projects
