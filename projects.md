@@ -73,7 +73,7 @@ This video shows a demo of the character's virtual vision. After generating the 
 <!-- This video demonstrates the complete Middle Earth map tracking system. Since the story in "The Lord of the Rings" takes place on a vast land, recording the locations reached during travels or the movement directions of armies on the map greatly helps in understanding the plot. Additionally, readers can plan their own Middle Earth adventure routes and create entirely new adventure stories based on the terrain, climate, and history of various regions. This video is played at 2x speed. -->
 
 <!-- <hr> -->
-<!-- project 5
+<!-- project 5 -->
 ## [Major Depressive Disorder diagnosis](/project-brain/) {#project-brain}
 
 <!-- <div style="text-align: center; margin-bottom: 1em;">
