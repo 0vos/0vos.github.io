@@ -10,10 +10,12 @@ header:
   teaser: "assets/images/PA.jpg" 
 ---
 This project provides a physical 3D model asset library for robotic arm data collection. Specifically, it is mainly divided into the following parts:
+
 1. Placement of simple convex objects
 2. Assembly of colliders for concave objects
 3. Assembly of articulated objects
 4. Generation of 3D objects
+
 We initially used Swift's native 3D animation system, but it had two problems: first, the lighting reflection was very strange, causing some faces of the object to display properly while others appeared completely white; second, the composite colliders formed by assembling simple colliders constantly jittered on the desk, and no matter how many preventive measures were added, it could not be stopped.
 
 Obviously, the second problem is fatal in the field of robotics simulation. SceneKit's collision only has three forms: boundingBox, concavePolyhedron, and convexHull. Among them, boundingBox is the most accurate, but having only a cubic collider is definitely insufficient for a robotic arm's pick and place tasks; concavePolyhedron should theoretically meet the collision requirements of concave objects (like bowls), but it can only be applied to static objects, and its support for collision accuracy is not very high (it causes clipping); convexHull can give objects a convex collider, but for some unknown reason, the object's collider seems to always be larger than the visual body, and no matter how we adjust it, we could not build a minimal convex collider.
