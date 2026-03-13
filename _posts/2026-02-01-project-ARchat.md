@@ -31,7 +31,7 @@ To achieve the ultimate goal, this project is destined to be massive. Therefore,
   <img 
       src="/assets/images/ARchatRAG.png" 
       alt="AR Chat RAG" 
-      style="max-width: 100%; height: auto; border-radius: 8px;" 
+      style="max-width: 100%; height: auto; border-radius: 12px;" 
     />
   <div style="color: gray; font-size: 0.8em; margin-top: 0.5em;">Server-side setup process</div>
 </div>
