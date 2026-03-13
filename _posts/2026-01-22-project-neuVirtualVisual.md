@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Visual Freedom for Specific Space"
+title: "Autonomous Virtual Vision for AR Characters"
 date: 2026-01-22
 permalink: /project-neuVirtualVisual/
 categories:
   - Projects
-excerpt: "Let characters see with their own eyes instead of iPhone camera"
+excerpt: "Empowering AR characters with independent spatial perception by building 3D scene volumes mapped to real spaces using Apple's SHARP model."
 header:
   teaser: "assets/images/virtual_visual.jpg" 
 ---

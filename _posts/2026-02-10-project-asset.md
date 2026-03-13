@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Physical Model Asset Library for Robot Tasks"
+title: "Physics-Enabled 3D Asset Library for Robotic Simulation"
 date: 2026-02-10
 permalink: /project-asset/
 categories:
   - Projects
-excerpt: "General physical 3D models for pick and place task in AR environment"
+excerpt: "A robust 3D asset library built in Unity for robotic arm tasks, featuring precise colliders, articulated assembly, and AI-generated models."
 header:
   teaser: "assets/images/PA.jpg" 
 ---

@@ -6,7 +6,7 @@ sidebar:
   nav: "projects_sidebar"
 ---
 <!-- project 1 -->
-## [Physical Asset Library for Robot Tasks](/project-asset/) {#project-asset}
+## [Physics-Enabled 3D Asset Library for Robotic Simulation](/project-asset/) {#project-asset}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
@@ -23,7 +23,7 @@ This video demonstrates the placement and generation of a 3D physical asset libr
 
 <hr>
 <!-- project 2 -->
-## [Mobile AR Anime Companion](/project-ARchat/) {#project-ARchat}
+## [Interactive Mobile AR Anime Companion](/project-ARchat/) {#project-ARchat}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
@@ -40,7 +40,7 @@ This video demonstrates the entire process of placing and having a continuous co
 
 <hr>
 <!-- project 3 -->
-## [Virtual Visuals of AR Characters](/project-neuVirtualVisual/) {#project-neuVirtualVisual}
+## [Autonomous Virtual Vision for AR Characters](/project-neuVirtualVisual/) {#project-neuVirtualVisual}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
@@ -89,7 +89,7 @@ This video shows a demo of the character's virtual vision. After generating the 
 <!-- This is a short description for Project A. It is a smart robot project that mainly solves XXX problems... -->
 
 <!-- <hr> -->
-## [Huffman Compression Software](/project-neuHuffman/) {#project-neuHuffman}
+## [Huffman Data Compression Web Application](/project-neuHuffman/) {#project-neuHuffman}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
@@ -122,7 +122,7 @@ This video demonstrates all the features of a Huffman compression software prese
 <!-- This video showcases the signature kick of Tenna from Chapter 3 of the game Deltarune, released in June 2025. Since the original animation in the game has the coattail stuck to the leg, I recreated a 3D animation of Tenna's kick, allowing the coattail and tie to swing more realistically. -->
 
 <!-- <hr> -->
-## [Agasa Hakase's House](/project-3DAgasa/) {#project-3DAgasa}
+## [3D Modeling and Printing of Professor Agasa's House](/project-3DAgasa/) {#project-3DAgasa}
 
 <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">

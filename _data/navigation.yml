@@ -17,11 +17,11 @@ main:
 projects_sidebar:
   - title: "System Design"
     children:
-      - title: "Physical Asset Library"
+      - title: "Physics 3D Asset Library"
         url: /projects/#project-asset
-      - title: "AR Character Chat"
+      - title: "Mobile AR Anime Companion"
         url: /projects/#project-ARchat
-      - title: "Virtual Visual"
+      - title: "Virtual Vision for AR"
         url: /projects/#project-neuVirtualVisual
   #     - title: "Middle Earth Map"
   #       url: /projects/#project-neuMiddleEarth
@@ -35,13 +35,13 @@ projects_sidebar:
       #   url: /projects/#project-robot
   #     - title: "Touhou STG"
   #       url: /projects/#project-neuTouhou
-      - title: "Huffman Compression Software"
+      - title: "Huffman Compression App"
         url: /projects/#project-neuHuffman
   #     - title: "Bencao RAG Web APP"
   #       url: /projects/#project-bencaoRAG
   #     - title: "Mechanical City"
   #       url: /projects/#project-3Dmechanical
-      - title: "Agasa Hakase's House"
+      - title: "3D Printing Agasa's House"
         url: /projects/#project-3DAgasa
   # - title: "Algorithm Implementation"
   #   children:

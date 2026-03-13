@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Huffman Compression Web APP"
+title: "Huffman Data Compression Web Application"
 date: 2024-12-31
 permalink: /project-neuHuffman/
 categories:
   - Projects
-excerpt: "Using basic C++ to build the server for Huffman compression graphical system"
+excerpt: "A lossless compression web app featuring a custom HTTP backend written entirely in standard C++ to handle streaming, encoding, and large file transmission."
 header:
   teaser: "assets/images/huffman.jpg" 
 ---

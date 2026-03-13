@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "3D modeling and printing for Agasa Hakase's House"
+title: "3D Modeling and Printing of Professor Agasa's House"
 date: 2024-05-13
 permalink: /project-3DAgasa/
 categories:
   - Projects
-excerpt: "3D modeling and printing for Agasa Hakase's House using Blender and postprocessing"
+excerpt: "A complete workflow of designing and 3D printing a detailed architectural model of Professor Agasa's house from 'Detective Conan' using Blender."
 header:
   teaser: "/assets/images/agasaHakase.png" 
 ---

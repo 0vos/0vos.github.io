@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Mobile AR Anime Companion"
+title: "Interactive Mobile AR Anime Companion"
 date: 2026-02-01
 permalink: /project-ARchat/
 categories:
   - Projects
-excerpt: "Chat with anime character in AR environment"
+excerpt: "An interactive AR companion system integrating LLM-based dialogue, local RAG, and voice generation, driven by a Unity-Swift client."
 header:
   teaser: "assets/images/ARChat.jpeg" 
 ---
