@@ -37,4 +37,4 @@ For the assembly of colliders for concave objects, since the xml files for Mujoc
 
 For articulated objects, we chose SAPIEN's articulated objects for assembly. The principle of assembly is similar to the assembly of composite colliders, but this time it involves parsing URDF files.
 
-Finally, to adapt to complex task environments in reality, I added Rodin API for 3D model generation (which is relatively accurate in physical structure and basically reasonable in textures), and the generated models are processed as simple concave objects.
+Finally, to adapt to complex task environments in reality, I added Rodin API for 3D model generation (which is relatively accurate in physical structure and basically reasonable in textures), and the generated models are processed as simple convex objects.
