@@ -74,7 +74,7 @@ This video shows a demo of the character's virtual vision. After generating the 
 
 <!-- <hr> -->
 <!-- project 5 -->
-## [Major Depressive Disorder diagnosis](/project-brain/) {#project-brain}
+<!-- ## [Major Depressive Disorder diagnosis](/project-brain/) {#project-brain} -->
 
 <!-- <div style="text-align: center; margin-bottom: 1em;">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 1em;">
